@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464403457755",
+    "project_id": "ios-tinder-73cad",
+    "storage_bucket": "ios-tinder-73cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464403457755:android:a9de988ecd4606dc390efe",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTTb0jEwSwmFXuoW3flcLbXioiSkYLlXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
